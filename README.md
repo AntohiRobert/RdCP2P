@@ -13,3 +13,9 @@ share file.txt ---------------------shares file.txt
 search len l ---------------------- searches files with len l  
 search like fi% -------------------- searches for files that begin with fi  
 get file.txt ----------------------- tries to get file.txt from network  
+
+
+Credits:  
+https://profs.info.uaic.ro/~computernetworks/cursullaboratorul.php (course page, most of serv/client, tcp stuff is taken from here)  
+https://www.geeksforgeeks.org/sql-using-c-c-and-sqlite/ - for sqlite3 stuff  
+https://github.com/nikhilroxtomar/File-Transfer-using-TCP-Socket-in-C - for file sending  
